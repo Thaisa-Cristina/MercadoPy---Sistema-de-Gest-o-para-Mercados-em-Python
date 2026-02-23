@@ -1,0 +1,1 @@
+banana|5|frutas|Joao|Maria|3|18/02/2026
